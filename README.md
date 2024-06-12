@@ -1,5 +1,9 @@
 # NYC-collisions-analysis
 
+The goal of the project was to analyze data on vehicle collisions in New York City.
+
+##
+
 Part 1 - Static visualization
 
 https://colab.research.google.com/drive/1kj8MrEcXkiuDEeP2GWQNKmd07YOmnWPG?usp=sharing

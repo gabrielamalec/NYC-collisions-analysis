@@ -2,7 +2,6 @@
 
 The goal of the project was to analyze data on vehicle collisions in New York City. <br />
 All visualizations were created using Altair.
-
 ##
 
 Part 1 - Static visualization
